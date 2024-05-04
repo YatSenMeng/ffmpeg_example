@@ -1,0 +1,3 @@
+/home/my/2024_workflow/01_study/c++/ffmpeg_example/build/CMakeFiles/01_file_info.dir
+/home/my/2024_workflow/01_study/c++/ffmpeg_example/build/CMakeFiles/edit_cache.dir
+/home/my/2024_workflow/01_study/c++/ffmpeg_example/build/CMakeFiles/rebuild_cache.dir

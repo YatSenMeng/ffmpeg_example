@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/01_file_info.dir/01_file_info.cpp.o -o 01_file_info  -Wl,-rpath,/usr/local/lib /usr/local/lib/libavcodec.so /usr/local/lib/libavdevice.so /usr/local/lib/libavfilter.so /usr/local/lib/libavformat.so /usr/local/lib/libavutil.so /usr/local/lib/libpostproc.so /usr/local/lib/libswresample.so /usr/local/lib/libswscale.so 
